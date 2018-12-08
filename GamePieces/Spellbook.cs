@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace WindowsFormsApp2.GameData
+namespace DungAndDrag.GameData
 {
     internal class Spellbook
     {

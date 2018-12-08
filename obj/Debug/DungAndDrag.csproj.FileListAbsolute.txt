@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DungAndDrag.exe.config
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DungAndDrag.exe
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DungAndDrag.pdb
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DungAndDrag.Form1.resources
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DungAndDrag.Properties.Resources.resources
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DungAndDrag.csproj.GenerateResource.Cache
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DungAndDrag.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DungAndDrag.exe
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DungAndDrag.pdb
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DungAndDrag.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DungAndDrag.Form2.resources
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\aspnet_regsql.exe
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\aspnet_regsql.exe.config
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DungAndDrag.csproj.CopyComplete
+C:\Users\Daniel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DungAndDrag.AttackForm.resources

@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WindowsFormsApp2.GamePieces;
+using DungAndDrag.GamePieces;
 
-namespace WindowsFormsApp2.GameData
+namespace DungAndDrag.GameData
 {
-    class ItemDescription
+    public class ItemDescription
     {
         String itemName;
         double weaponDamage;

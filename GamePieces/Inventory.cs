@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApp2.GamePieces
+namespace DungAndDrag.GamePieces
 {
-    class Inventory
+    public class Inventory
     {
         int money;
         List<Item> itemList;
-        Item activeWeapon;
+        public Item activeWeapon;
 
         public Item getActiveWeapon()
         {

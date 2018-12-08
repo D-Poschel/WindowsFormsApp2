@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WindowsFormsApp2.GamePieces;
+using DungAndDrag.GamePieces;
 
-namespace WindowsFormsApp2.GameData
+namespace DungAndDrag.GameData
 {
-    class CharacterDescription
+    public class CharacterDescription
     {
         int strength;
         int dexterity;
@@ -37,10 +38,12 @@ namespace WindowsFormsApp2.GameData
         int exp;
         int hitPoints;
         int speed;
-
+        Image image;
+            
         List<Skill> skillList;
         Spellbook spellbook;
 
+        public Image Image { get => image; set => image = value; }
         public int Strength { get => strength; set => strength = value; }
         public int Dexterity { get => dexterity; set => dexterity = value; }
         public int Constitution { get => constitution; set => constitution = value; }

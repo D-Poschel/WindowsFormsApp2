@@ -4,14 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApp2.Utility
+namespace DungAndDrag.Utility
 {
-    class Dice
+    public class Dice
     {
-        public static int roll(int sides)
+        private static readonly Dice instance = new Dice();
+        Random r;
+
+        // Explicit static constructor to tell C# compiler
+        // not to mark type as beforefieldinit
+        static Dice()
         {
-            Random r = new Random();
-            return r.Next(0,sides);
+        }
+
+        private Dice()
+        {
+            r = new Random();
+        }
+
+        public static Dice Instance
+        {
+            get
+            {
+                return instance;
+            }
+        }
+
+        public int Roll(int sides)
+        {
+            return r.Next(1, sides + 1);
         }
     }
 }

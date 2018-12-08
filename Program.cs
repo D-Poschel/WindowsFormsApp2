@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DungAndDrag.Utility;
 
-namespace WindowsFormsApp2
+namespace DungAndDrag
 {
     static class Program
     {
@@ -13,10 +14,11 @@ namespace WindowsFormsApp2
         /// </summary>
         [STAThread]
         static void Main()
-        {
+        {          
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            
         }
     }
 }

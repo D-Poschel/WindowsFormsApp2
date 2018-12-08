@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp2.GamePieces
+﻿namespace DungAndDrag.GamePieces
 {
     internal class InteractionEffect
     {

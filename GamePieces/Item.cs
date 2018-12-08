@@ -3,14 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WindowsFormsApp2.GameData;
+using DungAndDrag.GameData;
 
-namespace WindowsFormsApp2.GamePieces
+namespace DungAndDrag.GamePieces
 {
-    class Item
+    public class Item
     {
-        private ItemDescription itemDescription;
+        public ItemDescription itemDescription;
 
-        internal ItemDescription ItemDescription { get => itemDescription; set => itemDescription = value; }
+        public Item()
+        {
+            this.itemDescription = new ItemDescription();
+        }
     }
 }

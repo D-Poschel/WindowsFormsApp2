@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApp2.GamePieces
+namespace DungAndDrag.GamePieces
 {
     class WeaponType
     {

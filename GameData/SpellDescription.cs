@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp2.GameData
+﻿namespace DungAndDrag.GameData
 {
     internal class SpellDescription
     {
